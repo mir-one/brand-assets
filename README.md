@@ -18,13 +18,15 @@
 
 #### Черный на белом
 
-![Вариант с полным наименованием логотипа Machine Intelligence Research - черный квадрат слева от текста черного цвета Machine Intelligence Research]](standard/mir_logo_en_full.svg)
-![Вариант с полным наименованием логотипа Машины Интеллектуальных Расчётов - черный квадрат слева от белого текста Машины Интеллектуальных Расчётов](standard/mir_logo_ru_fullk.svg)
+[Вариант с полным наименованием логотипа Machine Intelligence Research - черный квадрат слева от текста черного цвета Machine Intelligence Research](https://github.com/mir-one/brand-assets/blob/main/standard/mir_logo_en_full.svg)
+
+[Вариант с полным наименованием логотипа Машины Интеллектуальных Расчётов - черный квадрат слева от белого текста Машины Интеллектуальных Расчётов](https://github.com/mir-one/brand-assets/blob/main/standard/mir_logo_ru_fullk.svg)
 
 #### Белый на черном
 
-![Вариант с полным наименованием логотипа Machine Intelligence Research - белый квадрат слева от текста белого цвета Machine Intelligence Research](standard/mir_logo_en_full_whitee.svg)
-![Вариант с полным наименованием логотипа Машины Интеллектуальных Расчётов -- белый квадрат слева от текста белого цвета Машины Интеллектуальных Расчётов text](standard/mir_logo_ru_full_whitee.svg)
+[Вариант с полным наименованием логотипа Machine Intelligence Research - белый квадрат слева от текста белого цвета Machine Intelligence Research](https://github.com/mir-one/brand-assets/blob/main/standard/mir_logo_en_full_whitee.svg)
+
+[Вариант с полным наименованием логотипа Машины Интеллектуальных Расчётов -- белый квадрат слева от текста белого цвета Машины Интеллектуальных Расчётов text](https://github.com/mir-one/brand-assets/blob/main/standard/mir_logo_ru_full_whitee.svg)
 
 Цветовое решение «белое на черном» сохраняет минималистичный дизайн и подходит для использования на темном фоне.
 
@@ -36,18 +38,17 @@
 
 #### Черный на белом
 
-![Вариант с коротким наименованием логотипа MIR - черный квадрат слева от текста черного цвета MIR](stacked/mir_logo_en_short.svg)
-![Вариант с коротким наименованием логотипа МИР - черный квадрат слева от текста черного цвета МИР](stacked/mir_logo_ru_short.svg)
+[Вариант с коротким наименованием логотипа MIR - черный квадрат слева от текста черного цвета MIR](https://github.com/mir-one/brand-assets/blob/main/Stacked/mir_logo_en_short.svg)
+
+[Вариант с коротким наименованием логотипа МИР - черный квадрат слева от текста черного цвета МИР](https://github.com/mir-one/brand-assets/blob/main/stacked/mir_logo_ru_short.svg)
 
 #### Белый на черном
 
-![Вариант с коротким наименованием логотипа MIR - белый квадрат слева от текста белого цвета MIR](stacked/mir_logo_en_short.svg)
-![Вариант с коротким наименованием логотипа МИР - белый квадрат слева от текста белого цвета МИР](stacked/mir_logo_ru_short_white.svg)
+[Вариант с коротким наименованием логотипа MIR - белый квадрат слева от текста белого цвета MIR](https://github.com/mir-one/brand-assets/blob/main/stacked/mir_logo_en_short.svg)
+
+[Вариант с коротким наименованием логотипа МИР - белый квадрат слева от текста белого цвета МИР](https://github.com/mir-one/brand-assets/blob/main/stacked/mir_logo_ru_short_white.svg)
 
 ## Иконка
-
 Иконка в виде черного квадрата представляет собой безграничную сложность: у иконки нет низа и верха, во все стороны.
 
-Здесь доступен вариант иконки.
-
-![Иконка в виде черного квадрата - черный на белом](icon/favicon.svg)
+[Значок в виде черного квадрата - черный на белом](https://github.com/mir-one/brand-assets/blob/main/Icon/favicon.svg)
