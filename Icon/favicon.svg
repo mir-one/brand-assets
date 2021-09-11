@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="150mm" height="150mm" viewBox="0 0 150 150" version="1.1" id="svg11924"><defs id="defs11918"></defs><metadata id="metadata11921"></metadata><g id="layer1" transform="translate(3.9404762,-38.392857)"><path id="rect10791" style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke-width:8.99885;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="M -3.9404762,38.392857 H 146.05952 V 188.39286 H -3.9404762 Z"></path></g></svg> 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="150mm" height="150mm" viewBox="0 0 150 150" version="1.1" id="svg11924" sodipodi:docname="favicon.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="991" id="namedview7" showgrid="false" inkscape:zoom="1.0227514" inkscape:cx="314.10698" inkscape:cy="293.48779" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg11924" />
+  <defs id="defs11918" />
+  <metadata id="metadata11921">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(3.9404762,-38.392857)" style="fill:#22272e;fill-opacity:1">
+    <path id="rect10791" style="fill:#22272e;fill-opacity:1;fill-rule:evenodd;stroke-width:8.99885;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="M -3.9404762,38.392857 H 146.05952 V 188.39286 H -3.9404762 Z" />
+  </g>
+</svg>
