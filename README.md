@@ -18,7 +18,7 @@
 
 #### Черный на белом
 
-[Вариант с полным наименованием логотипа Machine Intelligence Research - черный квадрат слева от текста черного цвета Machine Intelligence Research]](https://raw.githubusercontent.com/mir-one/brand-assets/main/standard/mir_logo_en_full.png)
+[Вариант с полным наименованием логотипа Machine Intelligence Research - черный квадрат слева от текста черного цвета Machine Intelligence Research](https://raw.githubusercontent.com/mir-one/brand-assets/main/standard/mir_logo_en_full.png)
 [Вариант с полным наименованием логотипа Машины Интеллектуальных Расчётов - черный квадрат слева от белого текста Машины Интеллектуальных Расчётов](https://raw.githubusercontent.com/mir-one/brand-assets/main/standard/mir_logo_ru_fullk.png)
 
 #### Белый на черном
