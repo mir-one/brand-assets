@@ -1,26 +1,121 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="453.49579mm" height="150mm" viewBox="0 0 453.49579 150" version="1.1" id="svg10998" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)" sodipodi:docname="mir_logo_ru_short.svg" inkscape:export-filename="C:\Users\User\Desktop\MIR Brand Assets\Stacked\mir_logo_ru_short.png" inkscape:export-xdpi="56.049332" inkscape:export-ydpi="56.049332">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="991" id="namedview15" showgrid="false" inkscape:zoom="0.98249718" inkscape:cx="856.99992" inkscape:cy="283.46457" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="layer1" />
+<svg width="472.03973mm" height="150mm" viewBox="0 0 472.03974 150" version="1.1" id="svg10998" inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)" sodipodi:docname="mir_logo_ru_short.svg" inkscape:export-filename="C:\Users\User\Desktop\MIR Brand Assets\Stacked\mir_logo_ru_short.png" inkscape:export-xdpi="56.049332" inkscape:export-ydpi="56.049332" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="991" id="namedview15" showgrid="false" inkscape:zoom="0.49124859" inkscape:cx="1198.9856" inkscape:cy="314.50472" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="layer1" inkscape:pagecheckerboard="1" inkscape:document-units="mm" />
   <defs id="defs10992">
     <rect x="-5890.7207" y="4075.6516" width="355.59998" height="133.35001" id="rect10922" />
     <rect x="-5890.7207" y="4075.6516" width="355.59998" height="133.35001" id="rect10987" />
     <rect x="-5890.7207" y="4075.6516" width="355.59998" height="133.35001" id="rect10908" />
     <rect x="-5890.7207" y="4075.6516" width="355.59998" height="133.35001" id="rect11600" />
+    <rect x="-5890.7207" y="4075.6516" width="355.59998" height="133.35001" id="rect62640-9-5-6" />
   </defs>
   <metadata id="metadata10995">
     <rdf:RDF>
       <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Роман Иноземцев</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>ООО &quot;Машины Интеллектуальных Расчётов&quot;</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>Русский</dc:language>
       </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
-  <g inkscape:label="Слой 1" inkscape:groupmode="layer" id="layer1" transform="translate(311.64093,-198.49405)">
-    <path id="rect10791" style="fill:#22272e;fill-opacity:1;fill-rule:evenodd;stroke-width:8.99885;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -311.64093,198.49405 h 150 v 150 h -150 z" />
-    <g aria-label="МИР" transform="matrix(2.1114666,0,0,2.1114666,12329.971,-8394.5305)" id="text10906" style="font-style:normal;font-weight:normal;font-size:52.9167px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10908);fill:#22272e;fill-opacity:1;stroke:none">
-      <path d="m -5879.8199,4098.6006 v 25.5587 h -7.4083 v -37.8883 h 10.9008 l 8.7842,23.0716 9.8425,-23.0716 h 9.9484 v 37.8883 h -8.4667 v -25.2942 l -8.255,19.4734 h -7.3554 z" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Yandex Sans Text';-inkscape-font-specification:'Yandex Sans Text Bold';fill:#22272e;fill-opacity:1" id="path840" />
-      <path d="m -5840.7674,4124.1593 v -37.8883 h 8.4666 v 25.5587 l 16.8805,-25.5587 h 8.5196 v 37.8883 h -8.5196 v -25.5058 l -16.8805,25.5058 z" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Yandex Sans Text';-inkscape-font-specification:'Yandex Sans Text Bold';fill:#22272e;fill-opacity:1" id="path842" />
-      <path d="m -5791.4491,4093.1501 v 11.3771 h 3.2279 q 3.5984,0 5.5034,-1.27 1.905,-1.27 1.905,-4.4979 0,-5.6092 -7.4084,-5.6092 z m 0,18.2563 v 12.7529 h -8.4667 v -37.8883 h 11.6946 q 3.81,0 6.7204,0.6879 2.9634,0.6879 4.9742,2.1696 2.0638,1.4287 3.1221,3.757 1.0583,2.2755 1.0583,5.5034 0,3.3867 -1.1112,5.8737 -1.1113,2.4342 -3.175,4.0217 -2.0638,1.5875 -5.0271,2.3813 -2.9104,0.7408 -6.5617,0.7408 z" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Yandex Sans Text';-inkscape-font-specification:'Yandex Sans Text Bold';fill:#22272e;fill-opacity:1" id="path844" />
+  <g inkscape:label="Слой 1" inkscape:groupmode="layer" id="layer1" transform="translate(269.04313,-209.19479)">
+    <g aria-label="МИР" transform="matrix(2.5401309,0,0,2.5401309,14890.076,-10121.681)" id="text62638-8" style="font-size:48.0779px;line-height:1;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect62640-9-5-6);fill:#22272e" inkscape:export-filename="C:\Users\User\Documents\GitHub\brand-assets\Stacked\mir_logo_ru_short.png" inkscape:export-xdpi="86.698669" inkscape:export-ydpi="86.698669">
+      <path d="m -5880.4801,4080.5082 11.2021,18.1254 11.2022,-18.1254 h 6.8271 v 32.1641 h -6.8271 v -20.1927 l -8.8463,13.8945 h -4.7117 l -8.7982,-13.8945 v 20.1927 h -6.8752 v -32.1641 z" style="font-family:Kinetika-Bold;-inkscape-font-specification:Kinetika-Bold" id="path1322" />
+      <path d="m -5837.5466,4080.5082 v 21.0581 l 14.9041,-21.0581 h 6.779 v 32.1641 h -6.8751 v -21.3466 l -15.0965,21.3466 h -6.5867 v -32.1641 z" style="font-family:Kinetika-Bold;-inkscape-font-specification:Kinetika-Bold" id="path1324" />
+      <path d="m -5793.9401,4080.5082 q 5.2886,0 8.606,3.2693 3.3174,3.2212 3.3174,8.3656 0,5.2405 -3.4136,8.4617 -3.3654,3.2212 -8.9905,3.2212 h -7.5483 v 8.8463 h -7.0674 v -32.1641 z m -1.1058,17.26 q 2.5962,0 4.2309,-1.5385 1.6346,-1.5866 1.6346,-4.0386 0,-2.4519 -1.5865,-3.9904 -1.5866,-1.5866 -4.0866,-1.5866 h -7.1156 v 11.1541 z" style="font-family:Kinetika-Bold;-inkscape-font-specification:Kinetika-Bold" id="path1326" />
+    </g>
+    <g id="g140269" transform="matrix(0.49999959,0,0,0.49999959,2959.7511,506.66079)" inkscape:export-filename="C:\Users\User\Documents\GitHub\brand-assets\Stacked\mir_logo_ru_short.png" inkscape:export-xdpi="86.698669" inkscape:export-ydpi="86.698669">
+      <path id="rect106590-4" style="fill:#22272e;fill-rule:evenodd;stroke-width:17.9977;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6457.5937,-594.9325 h 300.0002 v 300.00025 h -300.0002 z" />
+      <g id="g106738-9" transform="translate(-66.244414,207.95067)" style="fill:#ffffff;fill-opacity:1;stroke:none">
+        <path id="rect106592-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2461,-791.77173 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106594-3" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6346.9131,-791.77173 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106596-8" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5791,-791.77167 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106598-3" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6280.2461,-791.77167 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106600-4" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5796,-758.43848 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106602-1" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6280.2466,-758.43848 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106604-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5791,-725.10541 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106606-6" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6280.2461,-725.10541 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106608-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2456,-725.10535 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106610-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6346.9126,-725.10535 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106612-3" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2461,-691.77216 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106614-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6346.9131,-691.77216 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106616-4" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2456,-625.1059 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106618-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6346.9126,-625.1059 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106620-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2456,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106622-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6346.9126,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106624-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5796,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106626-9" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6280.2466,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106628-1" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6246.9121,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106630-3" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6213.5791,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106632-6" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2456,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106634-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6146.9126,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106636-8" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2466,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106638-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2461,-558.43945 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106640-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5791,-558.43945 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106642-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6280.2461,-558.43945 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106644-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6213.5791,-558.43945 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106646-3" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2461,-558.43945 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106648-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5791,-558.43945 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106650-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5791,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106652-4" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5791,-591.77264 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106654-3" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5786,-625.10583 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106656-8" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5786,-658.43896 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106658-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5786,-691.77216 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106660-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2456,-658.43896 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106662-6" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5791,-725.10535 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106664-9" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5791,-758.43848 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106666-8" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6113.5791,-791.77167 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106668-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5791,-691.77216 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106670-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5791,-658.43896 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106672-4" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5791,-625.10583 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106674-1" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2461,-658.43896 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106676-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6346.9136,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106678-1" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6313.5806,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106680-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6280.2476,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106682-9" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6246.9131,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106684-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6213.5801,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106686-2" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2466,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106688-8" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6146.9136,-525.10632 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106690-6" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2456,-625.10583 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106692-5" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6146.9126,-625.10583 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106694-3" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2451,-691.77216 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106696-3" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6146.9121,-691.77216 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106698-0" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2461,-725.10535 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106700-6" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6146.9131,-725.10535 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106702-9" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6246.9131,-725.10535 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106704-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6213.5801,-725.10535 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106706-8" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6213.5791,-758.43848 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106708-9" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2461,-758.43848 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106710-9" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6246.9131,-791.77167 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106712-1" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6213.5801,-791.77167 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106714-7" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6180.2461,-791.77173 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106716-1" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6146.9131,-791.77173 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106718-9" style="fill-rule:evenodd;stroke-width:0.666579;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6380.2461,-758.43848 h 11.1111 v 11.11107 h -11.1111 z" />
+        <path id="rect106720-1" style="fill-rule:evenodd;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6358.0239,-769.54956 h 33.333 v 33.33301 h -33.333 z" />
+        <path id="rect106722-9" style="fill-rule:evenodd;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6258.0239,-769.54956 h 33.333 v 33.33301 h -33.333 z" />
+        <path id="rect106724-3" style="fill-rule:evenodd;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6158.0239,-769.54944 h 33.333 v 33.33301 h -33.333 z" />
+        <path id="rect106726-9" style="fill-rule:evenodd;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" inkscape:transform-center-x="-0.29232605" inkscape:transform-center-y="-8.1851294" d="m -6158.0234,-669.54987 h 33.333 v 33.33301 h -33.333 z" />
+        <path id="rect106728-3" style="fill-rule:evenodd;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6158.0239,-569.55054 h 33.333 v 33.33301 h -33.333 z" />
+        <path id="rect106730-8" style="fill-rule:evenodd;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6258.0239,-569.55042 h 33.333 v 33.33301 h -33.333 z" />
+        <path id="rect106732-0" style="fill-rule:evenodd;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" inkscape:transform-center-x="-5.554195" d="m -6358.0239,-569.55054 h 33.333 v 33.33301 h -33.333 z" />
+        <path id="rect106734-8" style="fill-rule:evenodd;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6358.0239,-669.55005 h 33.333 v 33.33301 h -33.333 z" />
+        <path id="rect106736-4" style="fill-rule:evenodd;stroke-width:5.99914;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" d="m -6291.3569,-702.88251 h 99.9987 v 99.99877 h -99.9987 z" />
+      </g>
     </g>
   </g>
 </svg>
