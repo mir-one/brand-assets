@@ -35,6 +35,8 @@ Q<sub>0</sub> ⊃ Q<sub>1</sub> ⊃ Q<sub>2</sub> ⊃ Q<sub>3</sub>
 
 пересечение членов которой есть 3D логотип МИР.
 
+![3D](3d_logo_mir.png)
+
 Текст в этом логотипе записан шрифтом «Inter», который можно найти на [Google Fonts](https://fonts.google.com/specimen/Inter). Эти шрифты находятся под лицензией Open Font License.
 
 ## Когда использовать логотип
